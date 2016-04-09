@@ -1,0 +1,3 @@
+# Monopoly
+
+Inspired by Lerna.
